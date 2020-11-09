@@ -1,0 +1,1647 @@
+Date,Error Type,Error Detail
+2018-01-02,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-01-08,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-01-09,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-01-11,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-01-12,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-01-16,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-20,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-01-23,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-01-23,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-01-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-25,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-01-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-26,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-26,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-01-29,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-01-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-30,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-01-31,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-02,Failure in /secure/getuser/,STATUS_INTERNAL_ERROR
+2018-02-02,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-02-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-06,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-07,OA4MP OIDC authz endpoint error,no client identifier has been supplied. Have you registered this client with the service?
+2018-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-12,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-02-12,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-02-12,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-12,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-02-13,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-02-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-13,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-02-16,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-02-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-19,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-02-19,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-02-19,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-02-20,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-21,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-02-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-23,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-02-26,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-02-27,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-02-27,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-02-28,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-03-02,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-03-03,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-03-06,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-06,OA4MP OIDC authz endpoint error,no client identifier has been supplied. Have you registered this client with the service?
+2018-03-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-03-08,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-08,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-03-14,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-03-16,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-03-18,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-03-19,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-19,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-03-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-03-20,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-20,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-20,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-03-26,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-03-26,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-04-03,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-04-04,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-04,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-04-06,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-06,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-07,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-08,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-08,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-09,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-09,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-04-09,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-04-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-04-09,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-09,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-04-09,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-04-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-04-10,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-10,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-11,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-12,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-04-12,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-04-12,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-13,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-15,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-16,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-16,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-16,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-04-18,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-04-20,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-21,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-04-23,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-04-23,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-05-01,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-05-02,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-05-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-07,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-05-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-08,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-08,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-10,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-05-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-11,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-11,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-16,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-05-17,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-05-17,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-05-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-05-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-22,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-05-22,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-05-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-05-31,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-06-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-03,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-06-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-06,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-06-06,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-06-07,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-06-07,OA4MP OIDC authz endpoint error,You must specify 'login' as an option
+2018-06-07,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-06-07,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-06-07,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-06-13,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-06-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-13,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-06-15,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-19,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-06-19,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-06-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-20,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-06-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-21,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-06-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-21,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-06-22,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-06-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-26,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-06-29,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-06-30,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-07-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-02,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-07-02,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-07-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-09,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-07-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-10,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-07-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-11,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-11,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-13,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-07-13,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-07-16,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-07-18,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-07-19,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-07-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-20,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-07-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-07-23,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-07-30,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-01,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-02,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-08-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-06,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-08-07,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-08-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-08,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-08-09,Failure in /secure/getuser/,STATUS_INTERNAL_ERROR
+2018-08-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-10,Failure in /secure/getuser/,STATUS_INTERNAL_ERROR
+2018-08-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-11,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-11,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-11,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-12,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-12,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-13,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-14,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-14,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-14,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-14,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-08-15,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-16,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-08-16,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-08-16,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-20,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-20,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-08-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-27,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-08-28,OA4MP OIDC authz endpoint error,You must specify 'login' as an option
+2018-08-28,OA4MP OIDC authz endpoint error,You must specify 'login' as an option
+2018-08-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-08-30,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-08-30,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-08-31,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-08-31,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-09-03,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-09-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-06,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-06,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-10,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-09-12,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-09-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-13,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-09-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-14,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-09-16,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-09-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-09-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-09-18,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-09-18,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-09-18,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-09-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-20,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-09-23,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-09-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-26,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-09-26,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-27,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-28,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-09-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-09-30,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-02,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-05,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-05,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-08,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-09,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-11,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-11,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-10-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-14,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-10-17,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-10-17,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-18,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-10-18,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-19,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-19,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-19,OA4MP OIDC authz endpoint error,The client with identifier REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-20,dbService Error,STATUS_TRANSACTION_NOT_FOUND
+2018-10-21,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-10-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-21,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-10-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-23,dbService Error,Unable to associate user UID with OIDC code
+2018-10-23,dbService Error,Unable to associate user UID with OIDC code
+2018-10-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-24,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-10-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-26,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-10-26,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-10-29,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2018-10-29,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-10-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-10-31,dbService Error,Unable to associate user UID with OIDC code
+2018-11-01,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-11-01,dbService Error,Unable to associate user UID with OIDC code
+2018-11-01,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-11-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-01,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-11-01,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-11-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-02,dbService Error,Unable to associate user UID with OIDC code
+2018-11-02,dbService Error,Unable to associate user UID with OIDC code
+2018-11-02,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-05,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-11-06,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-11-06,dbService Error,Unable to associate user UID with OIDC code
+2018-11-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-12,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-13,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-11-13,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-13,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-13,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-19,dbService Error,Unable to associate user UID with OIDC code
+2018-11-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-26,dbService Error,Unable to associate user UID with OIDC code
+2018-11-26,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-11-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-29,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-29,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-29,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-29,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-29,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-29,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-29,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2018-11-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-11-29,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-11-30,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-11-30,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2018-12-03,dbService Error,Unable to associate user UID with OIDC code
+2018-12-03,dbService Error,Unable to associate user UID with OIDC code
+2018-12-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-04,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-12-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-06,dbService Error,Unable to associate user UID with OIDC code
+2018-12-06,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-07,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2018-12-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-11,dbService Error,Unable to associate user UID with OIDC code
+2018-12-11,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-12,dbService Error,Unable to associate user UID with OIDC code
+2018-12-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-13,dbService Error,Unable to associate user UID with OIDC code
+2018-12-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-17,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2018-12-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-20,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2018-12-20,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-12-21,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-12-21,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-12-22,dbService Error,Unable to associate user UID with OIDC code
+2018-12-24,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2018-12-26,dbService Error,Unable to associate user UID with OIDC code
+2019-01-03,dbService Error,Unable to associate user UID with OIDC code
+2019-01-07,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-01-08,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-14,dbService Error,Unable to associate user UID with OIDC code
+2019-01-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-19,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-01-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-23,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-28,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-01-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-29,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-01-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-30,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-01-30,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-30,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-01-30,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-01,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-02-01,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-02-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-04,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-02-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-04,dbService Error,Unable to associate user UID with OIDC code
+2019-02-04,dbService Error,Unable to associate user UID with OIDC code
+2019-02-04,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-05,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-02-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-06,dbService Error,Unable to associate user UID with OIDC code
+2019-02-06,dbService Error,Unable to associate user UID with OIDC code
+2019-02-06,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-06,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-07,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-02-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-08,dbService Error,Unable to associate user UID with OIDC code
+2019-02-12,dbService Error,Unable to associate user UID with OIDC code
+2019-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-12,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-02-13,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-02-13,dbService Error,Unable to associate user UID with OIDC code
+2019-02-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-14,dbService Error,Unable to associate user UID with OIDC code
+2019-02-15,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-15,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-15,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-17,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-17,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-18,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-19,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-20,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-21,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-21,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-21,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-21,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-21,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-21,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-02-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-22,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-22,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-23,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-24,dbService Error,Unable to associate user UID with OIDC code
+2019-02-25,dbService Error,Unable to associate user UID with OIDC code
+2019-02-25,dbService Error,Unable to associate user UID with OIDC code
+2019-02-25,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-26,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-02-26,dbService Error,Unable to associate user UID with OIDC code
+2019-02-26,dbService Error,Unable to associate user UID with OIDC code
+2019-02-26,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-26,Failure in /secure/getuser/,STATUS_INTERNAL_ERROR
+2019-02-26,Failure in /secure/getuser/,STATUS_INTERNAL_ERROR
+2019-02-26,Failure in /secure/getuser/,STATUS_INTERNAL_ERROR
+2019-02-26,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-02-27,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-27,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-27,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-02-27,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-27,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-27,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-02-28,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-28,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-02-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-01,dbService Error,Unable to associate user UID with OIDC code
+2019-03-03,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-03,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-03-03,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-03-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-06,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-07,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-07,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-07,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-08,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-08,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-08,OA4MP OIDC authz endpoint error,Error parsing URI REDACTED
+2019-03-08,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-03-11,dbService Error,Unable to associate user UID with OIDC code
+2019-03-11,dbService Error,Unable to associate user UID with OIDC code
+2019-03-11,dbService Error,Unable to associate user UID with OIDC code
+2019-03-11,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-12,dbService Error,Unable to associate user UID with OIDC code
+2019-03-12,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-12,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-03-12,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-03-12,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-12,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-13,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-03-13,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-13,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-03-14,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-03-14,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-15,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-15,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-15,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-15,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-15,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-15,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-16,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-17,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-17,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-17,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-18,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-03-18,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-18,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-03-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-19,dbService Error,Unable to associate user UID with OIDC code
+2019-03-19,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-19,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-19,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-19,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-03-20,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-20,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-21,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-21,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-22,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-22,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-24,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-24,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-24,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-24,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-03-25,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-26,dbService Error,Unable to associate user UID with OIDC code
+2019-03-26,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-03-26,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-27,dbService Error,Unable to associate user UID with OIDC code
+2019-03-27,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-27,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-28,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-03-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-04,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-05,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-08,dbService Error,Unable to associate user UID with OIDC code
+2019-04-08,dbService Error,Unable to associate user UID with OIDC code
+2019-04-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-12,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-04-12,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-04-12,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-04-13,dbService Error,Unable to associate user UID with OIDC code
+2019-04-14,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-17,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-18,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-04-18,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-19,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-22,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-04-22,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-04-22,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-24,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-25,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-04-25,dbService Error,Unable to associate user UID with OIDC code
+2019-04-26,dbService Error,Unable to associate user UID with OIDC code
+2019-04-26,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-26,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-04-26,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-04-26,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-27,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-04-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-04-29,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-01,dbService Error,Unable to associate user UID with OIDC code
+2019-05-01,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-03,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-05,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-05-06,dbService Error,Unable to associate user UID with OIDC code
+2019-05-07,dbService Error,Unable to associate user UID with OIDC code
+2019-05-07,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-07,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-05-08,dbService Error,Unable to associate user UID with OIDC code
+2019-05-08,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-05-08,OA4MP OIDC authz endpoint error,Unknown client: REDACTED cannot be found.  Is the value in the client config correct?
+2019-05-09,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-09,OA4MP OIDC authz endpoint error,The client with identifier REDACTED has not been approved. Request rejected. Please contact your administrator.
+2019-05-10,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-13,dbService Error,Unable to associate user UID with OIDC code
+2019-05-13,dbService Error,Unable to associate user UID with OIDC code
+2019-05-13,OA4MP OIDC authz endpoint error,The given redirect REDACTED is not valid for this client
+2019-05-16,dbService Error,Unable to associate user UID with OIDC code
+2019-05-17,dbService Error,Unable to associate user UID with OIDC code
+2019-05-17,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-20,dbService Error,Unable to associate user UID with OIDC code
+2019-05-20,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-20,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-22,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-22,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-22,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-23,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-23,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-24,dbService Error,Unable to associate user UID with OIDC code
+2019-05-24,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-24,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-27,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-28,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-29,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-29,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-29,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-29,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-29,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-30,dbService Error,Unable to associate user UID with OIDC code
+2019-05-30,dbService Error,Unable to associate user UID with OIDC code
+2019-05-30,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-30,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-31,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-05-31,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-01,dbService Error,Unable to associate user UID with OIDC code
+2019-06-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-03,dbService Error,Unable to associate user UID with OIDC code
+2019-06-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-04,dbService Error,Unable to associate user UID with OIDC code
+2019-06-04,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-04,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-05,dbService Error,Unable to associate user UID with OIDC code
+2019-06-05,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-05,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-05,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-07,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-09,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-10,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-10,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-10,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-12,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-12,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-12,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-13,dbService Error,Unable to associate user UID with OIDC code
+2019-06-13,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-13,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-14,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-14,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-15,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-16,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-18,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-18,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-19,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-19,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-19,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-20,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-20,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-20,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-21,dbService Error,Unable to associate user UID with OIDC code
+2019-06-21,dbService Error,Unable to associate user UID with OIDC code
+2019-06-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-22,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-23,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-23,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-25,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-06-25,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-25,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-25,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-26,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-26,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-26,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-27,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-29,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-06-30,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-02,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-03,dbService Error,Unable to associate user UID with OIDC code
+2019-07-03,dbService Error,Unable to associate user UID with OIDC code
+2019-07-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-08,dbService Error,Unable to associate user UID with OIDC code
+2019-07-08,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-08,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-09,dbService Error,Unable to associate user UID with OIDC code
+2019-07-09,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-09,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-09,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-10,dbService Error,Unable to associate user UID with OIDC code
+2019-07-10,dbService Error,Unable to associate user UID with OIDC code
+2019-07-11,dbService Error,Unable to associate user UID with OIDC code
+2019-07-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-14,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-14,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-14,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-15,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-15,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-16,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-16,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-18,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-18,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-19,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-23,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-23,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-25,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-25,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-26,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-26,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-29,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-29,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-30,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-30,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-07-31,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-01,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-02,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-02,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-02,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-02,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-03,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-04,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-04,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-04,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-04,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-05,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-05,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-06,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-07,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-09,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-09,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-09,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-11,dbService Error,Unable to associate user UID with OIDC code
+2019-08-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-11,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-12,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-12,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-13,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-08-13,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-14,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-08-14,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-14,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-14,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-15,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-15,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-15,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-16,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-16,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-17,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-19,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-20,dbService Error,Unable to associate user UID with OIDC code
+2019-08-20,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-20,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-21,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-22,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-22,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-22,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-23,dbService Error,Unable to associate user UID with OIDC code
+2019-08-24,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-26,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-27,OA4MP OIDC authz endpoint error,STATUS_CREATE_TRANSACTION_FAILED
+2019-08-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-08-29,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-08-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-08-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-08-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-03,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-09-03,dbService Error,STATUS_EXPIRED_TOKEN
+2019-09-03,dbService Error,STATUS_EXPIRED_TOKEN
+2019-09-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-11,dbService Error,STATUS_EXPIRED_TOKEN
+2019-09-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-19,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-20,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-23,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-09-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-25,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-09-25,dbService Error,STATUS_EXPIRED_TOKEN
+2019-09-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-26,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-09-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-07,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-10-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-10,dbService Error,STATUS_EXPIRED_TOKEN
+2019-10-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-15,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-18,dbService Error,STATUS_EXPIRED_TOKEN
+2019-10-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-20,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-10-20,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-22,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-23,dbService Error,STATUS_EXPIRED_TOKEN
+2019-10-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-24,dbService Error,STATUS_EXPIRED_TOKEN
+2019-10-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-29,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-10-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-10-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-04,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-11-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-05,dbService Error,STATUS_EXPIRED_TOKEN
+2019-11-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-06,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-11-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-07,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-11-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-10,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-12,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-11-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-13,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-11-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-14,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-11-14,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-11-15,dbService Error,STATUS_EXPIRED_TOKEN
+2019-11-15,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-15,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-20,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-26,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-26,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-26,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-27,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-11-27,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2019-11-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-28,dbService Error,STATUS_EXPIRED_TOKEN
+2019-11-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-11-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-01,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-12-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-02,dbService Error,STATUS_EXPIRED_TOKEN
+2019-12-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-05,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-12-05,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-12-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-09,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2019-12-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-10,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2019-12-10,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-10,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-10,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-15,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-15,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-15,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-19,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-19,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-19,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-19,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-20,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-26,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-26,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2019-12-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-09,dbService Error,STATUS_EXPIRED_TOKEN
+2020-01-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-10,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-10,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-11,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2020-01-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-14,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2020-01-14,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2020-01-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-15,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2020-01-15,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2020-01-15,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-16,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-19,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-19,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-20,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-20,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-21,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-22,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-01-22,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-22,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-01-22,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-01-22,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-01-22,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-22,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-22,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-22,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-22,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-22,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-23,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-01-23,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-01-23,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-01-23,dbService Error,STATUS_EXPIRED_TOKEN
+2020-01-23,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-23,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-24,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-24,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-28,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-29,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-30,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-30,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-30,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-01-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-30,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-01-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-01,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-02-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-01,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-02,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-03,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-02-03,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-04,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-02-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-04,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-02-04,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-05,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-02-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-08,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-10,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-11,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-12,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-12,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-13,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-14,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-14,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-15,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-02-15,dbService Error,STATUS_EXPIRED_TOKEN
+2020-02-15,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-15,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-16,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-02-17,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-19,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-19,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-19,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-19,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-02-20,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-20,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-02-21,dbService Error,STATUS_EXPIRED_TOKEN
+2020-02-22,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-24,OA4MP OIDC authz endpoint error,Missing client_id parameter.
+2020-02-24,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-24,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-25,dbService Error,STATUS_EXPIRED_TOKEN
+2020-02-25,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-25,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-25,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-25,OA4MP OIDC authz endpoint error,Malformed input.
+2020-02-26,OA4MP OIDC authz endpoint error,Malformed input.
+2020-02-26,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-02-26,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-27,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-27,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-02-27,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-27,OA4MP OIDC authz endpoint error,Client has not been approved.
+2020-02-28,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-28,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-02-28,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-03-01,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-02,cUrl Error,cUrl Error = Operation timed out after 30000 milliseconds with 0 bytes received URL Accessed = http://localhost:8080/oauth2/dbService?action=createTransaction
+2020-03-02,cUrl Error,cUrl Error = Operation timed out after 30000 milliseconds with 0 bytes received URL Accessed = http://localhost:8080/oauth2/dbService?action=createTransaction
+2020-03-02,cUrl Error,cUrl Error = Operation timed out after 30000 milliseconds with 0 bytes received URL Accessed = http://localhost:8080/oauth2/dbService?action=createTransaction
+2020-03-02,cUrl Error,cUrl Error = Operation timed out after 30000 milliseconds with 0 bytes received URL Accessed = http://localhost:8080/oauth2/dbService?action=getUser
+2020-03-02,dbService Error,Error calling dbservice action getUser in saveUserToDatastore() method.
+2020-03-02,cUrl Error,cUrl Error = Operation timed out after 30000 milliseconds with 0 bytes received URL Accessed = http://localhost:8080/oauth2/dbService?action=createTransaction
+2020-03-02,cUrl Error,cUrl Error = Operation timed out after 30000 milliseconds with 0 bytes received URL Accessed = http://localhost:8080/oauth2/dbService?action=createTransaction
+2020-03-02,cUrl Error,cUrl Error = Operation timed out after 30000 milliseconds with 0 bytes received URL Accessed = http://localhost:8080/oauth/dbService?action=getPortalParameter
+2020-03-02,cUrl Error,cUrl Error = Operation timed out after 30000 milliseconds with 0 bytes received URL Accessed = http://localhost:8080/oauth2/dbService?action=createTransaction
+2020-03-02,OA4MP OIDC authz endpoint error,Client has not been approved.
+2020-03-02,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-03,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-03,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-03,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-03,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-04,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-05,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-05,OA4MP OIDC authz endpoint error,Client has not been approved.
+2020-03-05,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-03-05,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-05,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-06,dbService Error,STATUS_EXPIRED_TOKEN
+2020-03-07,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-08,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-03-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-10,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-11,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-11,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-03-12,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-03-12,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-13,dbService Error,STATUS_EXPIRED_TOKEN
+2020-03-13,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-15,dbService Error,STATUS_EXPIRED_TOKEN
+2020-03-16,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-03-16,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-16,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-17,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-18,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-03-18,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-03-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-19,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-20,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2020-03-20,Failure in /secure/getuser/,STATUS_MISSING_PARAMETER_ERROR
+2020-03-22,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-03-23,dbService Error,STATUS_EXPIRED_TOKEN
+2020-03-25,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-25,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-27,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-30,dbService Error,STATUS_EXPIRED_TOKEN
+2020-03-30,dbService Error,STATUS_EXPIRED_TOKEN
+2020-03-30,OA4MP OIDC authz endpoint error,Client has not been approved.
+2020-03-30,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-31,dbService Error,STATUS_EXPIRED_TOKEN
+2020-03-31,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-03-31,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-03-31,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-03-31,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-04-01,dbService Error,STATUS_EXPIRED_TOKEN
+2020-04-01,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-04-01,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-01,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-01,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-02,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-03,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-04-03,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-06,dbService Error,STATUS_EXPIRED_TOKEN
+2020-04-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-04-07,dbService Error,STATUS_EXPIRED_TOKEN
+2020-04-07,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-04-08,dbService Error,STATUS_EXPIRED_TOKEN
+2020-04-09,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-09,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-10,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-10,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-10,OA4MP OIDC authz endpoint error,Missing client_id parameter.
+2020-04-10,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-13,dbService Error,STATUS_EXPIRED_TOKEN
+2020-04-13,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-13,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-13,OA4MP OIDC authz endpoint error,Missing client_id parameter.
+2020-04-13,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-13,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-14,OA4MP OIDC authz endpoint error,Missing client_id parameter.
+2020-04-14,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-14,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-15,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-15,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-15,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-15,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-15,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-16,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-16,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-17,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-17,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-04-17,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-17,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-18,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-04-20,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-04-20,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-20,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-04-21,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-21,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-21,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-22,dbService Error,STATUS_EXPIRED_TOKEN
+2020-04-22,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-22,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-22,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-23,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-24,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-24,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-26,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-27,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-27,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-27,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-04-27,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-27,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-28,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-28,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-29,dbService Error,STATUS_EXPIRED_TOKEN
+2020-04-29,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-04-29,OA4MP OIDC authz endpoint error,Malformed input.
+2020-04-29,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-04-30,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-01,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-01,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-02,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-02,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-04,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-04,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-05,OA4MP OIDC authz endpoint error,Missing client_id parameter.
+2020-05-05,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-05,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-06,dbService Error,STATUS_EXPIRED_TOKEN
+2020-05-06,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-06,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-07,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-07,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-08,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-08,OA4MP OIDC authz endpoint error,Client has not been approved.
+2020-05-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-09,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-10,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-11,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-11,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-11,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-11,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-11,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-12,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-12,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-13,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-15,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-15,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-16,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-16,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-16,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-17,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-18,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-19,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-20,dbService Error,STATUS_EXPIRED_TOKEN
+2020-05-20,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-20,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-20,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-05-21,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-05-22,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-05-22,OA4MP OIDC authz endpoint error,Missing client_id parameter.
+2020-05-22,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-22,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-05-22,OA4MP OIDC authz endpoint error,Client has not been approved.
+2020-05-22,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-22,OA4MP OIDC authz endpoint error,Client has not been approved.
+2020-05-23,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-24,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-25,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-26,Authentication attempt using non-whitelisted IdP,"A user successfully authenticated with an IdP, however, the selected IdP was not in the list of whitelisted IdPs as determined by the current skin. This might indicate the user attempted to circumvent the security check in handleGotUser() for valid IdPs for the skin."
+2020-05-26,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-05-27,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-27,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-05-28,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-28,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-05-28,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-29,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-05-29,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-29,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-05-30,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-30,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-30,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-05-31,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-05-31,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-01,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-06-01,OA4MP OIDC authz endpoint error,Missing client_id parameter.
+2020-06-02,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-02,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-06-02,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-03,Failure in /secure/getuser/,STATUS_EPTID_MISMATCH
+2020-06-03,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-04,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-04,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-05,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-05,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-05,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-06,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-06,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-07,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-07,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-08,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-09,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-09,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-09,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-06-09,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-06-10,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-11,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-11,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-12,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-12,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-06-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-06-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-06-12,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-06-12,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-12,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-13,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-13,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-14,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-15,OA4MP OIDC authz endpoint error,Malformed input.
+2020-06-15,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-06-15,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-16,OA4MP OIDC authz endpoint error,Malformed input.
+2020-06-16,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-16,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-16,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
+2020-06-16,OA4MP OIDC authz endpoint error,Malformed input.
+2020-06-16,OA4MP OIDC authz endpoint error,Unknown client_id.
+2020-06-17,CILogon OIDC authz endpoint error,"The CILogon OIDC authorization endpoint received a request from an OIDC client, but at least one of the required parameters (redirect_uri) was missing."
+2020-06-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-06-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-06-17,OA4MP OIDC authz endpoint error,Missing parameter.
+2020-06-17,OA4MP OIDC authz endpoint error,Failed to initialize OIDC flow.
+2020-06-17,OA4MP OIDC authz endpoint error,The redirect_uri does not match a registered callback URI.
