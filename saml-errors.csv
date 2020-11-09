@@ -1,0 +1,1876 @@
+Date,Shibboleth ErrorText
+2018-01-04,SAML response reported an IdP error.
+2018-01-09,SAML response reported an IdP error.
+2018-01-11,None of the configured SessionInitiators handled the request.
+2018-01-14,None of the configured SessionInitiators handled the request.
+2018-01-17,None of the configured SessionInitiators handled the request.
+2018-01-17,None of the configured SessionInitiators handled the request.
+2018-01-17,SAML response reported an IdP error.
+2018-01-18,Invalid HTTP method (GET).
+2018-01-19,SAML response reported an IdP error.
+2018-01-19,SAML response reported an IdP error.
+2018-01-22,Invalid HTTP method (GET).
+2018-01-22,Invalid HTTP method (GET).
+2018-01-22,Invalid HTTP method (GET).
+2018-01-25,Rejecting replayed message ID.
+2018-01-25,Rejecting replayed message ID.
+2018-01-25,Rejecting replayed message ID.
+2018-01-25,Rejecting replayed message ID.
+2018-01-29,None of the configured SessionInitiators handled the request.
+2018-01-29,None of the configured SessionInitiators handled the request.
+2018-01-29,None of the configured SessionInitiators handled the request.
+2018-01-29,None of the configured SessionInitiators handled the request.
+2018-01-29,None of the configured SessionInitiators handled the request.
+2018-01-29,None of the configured SessionInitiators handled the request.
+2018-01-29,Rejecting replayed message ID.
+2018-01-29,Rejecting replayed message ID.
+2018-01-29,Rejecting replayed message ID.
+2018-01-29,SAML response reported an IdP error.
+2018-01-29,SAML response reported an IdP error.
+2018-02-07,None of the configured SessionInitiators handled the request.
+2018-02-07,None of the configured SessionInitiators handled the request.
+2018-02-07,None of the configured SessionInitiators handled the request.
+2018-02-07,None of the configured SessionInitiators handled the request.
+2018-02-13,Invalid HTTP method (GET).
+2018-02-13,Invalid HTTP method (GET).
+2018-02-18,SAML response reported an IdP error.
+2018-02-18,SAML response reported an IdP error.
+2018-02-18,SAML response reported an IdP error.
+2018-02-18,SAML response reported an IdP error.
+2018-02-18,SAML response reported an IdP error.
+2018-02-18,SAML response reported an IdP error.
+2018-02-20,Request missing SAMLart query string or form parameter.
+2018-02-20,Request missing SAMLart query string or form parameter.
+2018-02-22,None of the configured SessionInitiators handled the request.
+2018-02-23,Invalid HTTP method (GET).
+2018-02-23,Invalid HTTP method (GET).
+2018-02-23,None of the configured SessionInitiators handled the request.
+2018-02-23,None of the configured SessionInitiators handled the request.
+2018-02-26,Invalid HTTP method (GET).
+2018-02-26,Invalid HTTP method (GET).
+2018-02-26,None of the configured SessionInitiators handled the request.
+2018-02-28,"Message expired, was issued too long ago."
+2018-03-05,None of the configured SessionInitiators handled the request.
+2018-03-07,Invalid HTTP method (GET).
+2018-03-07,Shibboleth handler invoked at an unconfigured location.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-09,SAML response reported an IdP error.
+2018-03-10,None of the configured SessionInitiators handled the request.
+2018-03-14,None of the configured SessionInitiators handled the request.
+2018-03-14,SAML response reported an IdP error.
+2018-03-15,SAML response reported an IdP error.
+2018-03-15,SAML response reported an IdP error.
+2018-03-19,Invalid HTTP method (GET).
+2018-03-19,Invalid HTTP method (GET).
+2018-03-19,None of the configured SessionInitiators handled the request.
+2018-03-19,Shibboleth handler invoked at an unconfigured location.
+2018-03-19,Shibboleth handler invoked at an unconfigured location.
+2018-03-19,Shibboleth handler invoked at an unconfigured location.
+2018-03-19,Shibboleth handler invoked at an unconfigured location.
+2018-03-26,Shibboleth handler invoked at an unconfigured location.
+2018-03-26,Unable to establish security of incoming assertion.
+2018-03-27,SAML response reported an IdP error.
+2018-03-27,SAML response reported an IdP error.
+2018-03-27,SAML response reported an IdP error.
+2018-03-27,SAML response reported an IdP error.
+2018-03-27,SAML response reported an IdP error.
+2018-03-27,SAML response reported an IdP error.
+2018-03-29,SAML response reported an IdP error.
+2018-03-29,SAML response reported an IdP error.
+2018-03-30,SAML response reported an IdP error.
+2018-03-30,SAML response reported an IdP error.
+2018-03-30,SAML response reported an IdP error.
+2018-04-05,Shibboleth handler invoked at an unconfigured location.
+2018-04-06,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-04-09,SAML response reported an IdP error.
+2018-04-09,SAML response reported an IdP error.
+2018-04-09,SAML response reported an IdP error.
+2018-04-10,Invalid content type for PAOS message.
+2018-04-11,Invalid content type for PAOS message.
+2018-04-11,Shibboleth handler invoked at an unconfigured location.
+2018-04-11,Shibboleth handler invoked at an unconfigured location.
+2018-04-11,Shibboleth handler invoked at an unconfigured location.
+2018-04-13,"Message was signed, but signature could not be verified."
+2018-04-14,Shibboleth handler invoked at an unconfigured location.
+2018-04-17,Invalid HTTP method (GET).
+2018-04-18,SAML response reported an IdP error.
+2018-04-20,SAML response reported an IdP error.
+2018-04-22,None of the configured SessionInitiators handled the request.
+2018-04-23,Invalid HTTP method (GET).
+2018-04-25,Invalid HTTP method (GET).
+2018-04-26,SAML response reported an IdP error.
+2018-04-27,Invalid HTTP method (GET).
+2018-04-27,SAML response reported an IdP error.
+2018-04-30,None of the configured SessionInitiators handled the request.
+2018-05-07,SAML response reported an IdP error.
+2018-05-09,Invalid HTTP method (GET).
+2018-05-10,None of the configured SessionInitiators handled the request.
+2018-05-10,None of the configured SessionInitiators handled the request.
+2018-05-10,None of the configured SessionInitiators handled the request.
+2018-05-10,SAML response reported an IdP error.
+2018-05-10,SAML response reported an IdP error.
+2018-05-10,SAML response reported an IdP error.
+2018-05-10,SAML response reported an IdP error.
+2018-05-10,SAML response reported an IdP error.
+2018-05-11,None of the configured SessionInitiators handled the request.
+2018-05-11,None of the configured SessionInitiators handled the request.
+2018-05-11,SAML response reported an IdP error.
+2018-05-11,SAML response reported an IdP error.
+2018-05-16,SAML response reported an IdP error.
+2018-05-17,"Message expired, was issued too long ago."
+2018-05-17,"Message expired, was issued too long ago."
+2018-05-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-17,SAML response reported an IdP error.
+2018-05-17,SAML response reported an IdP error.
+2018-05-17,SAML response reported an IdP error.
+2018-05-18,Invalid HTTP method (GET).
+2018-05-18,Invalid HTTP method (GET).
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,"Message was signed, but signature could not be verified."
+2018-05-18,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-18,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-18,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-18,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-18,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-18,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-18,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-18,SAML response reported an IdP error.
+2018-05-18,Unable to establish security of incoming assertion.
+2018-05-18,Unable to establish security of incoming assertion.
+2018-05-20,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-05-21,Invalid HTTP method (GET).
+2018-05-21,Invalid HTTP method (GET).
+2018-05-21,Invalid HTTP method (GET).
+2018-05-21,Invalid HTTP method (GET).
+2018-05-21,Invalid HTTP method (GET).
+2018-05-22,SAML response reported an IdP error.
+2018-05-23,Rejecting replayed message ID.
+2018-05-23,Rejecting replayed message ID.
+2018-05-23,Rejecting replayed message ID.
+2018-05-23,SAML response reported an IdP error.
+2018-05-25,SAML response reported an IdP error.
+2018-05-25,SAML response reported an IdP error.
+2018-05-25,SAML response reported an IdP error.
+2018-05-25,SAML response reported an IdP error.
+2018-05-25,SAML response reported an IdP error.
+2018-05-25,SAML response reported an IdP error.
+2018-05-25,SAML response reported an IdP error.
+2018-05-26,SAML response reported an IdP error.
+2018-05-26,SAML response reported an IdP error.
+2018-05-28,SAML response reported an IdP error.
+2018-05-29,Shibboleth handler invoked at an unconfigured location.
+2018-05-30,SAML response reported an IdP error.
+2018-06-02,SAML response reported an IdP error.
+2018-06-03,None of the configured SessionInitiators handled the request.
+2018-06-04,Invalid HTTP method (GET).
+2018-06-04,Invalid HTTP method (GET).
+2018-06-04,None of the configured SessionInitiators handled the request.
+2018-06-04,SAML response reported an IdP error.
+2018-06-04,SAML response reported an IdP error.
+2018-06-04,SAML response reported an IdP error.
+2018-06-05,None of the configured SessionInitiators handled the request.
+2018-06-05,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-06,SAML response reported an IdP error.
+2018-06-06,Shibboleth handler invoked at an unconfigured location.
+2018-06-07,SAML response reported an IdP error.
+2018-06-07,SAML response reported an IdP error.
+2018-06-07,SAML response reported an IdP error.
+2018-06-07,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-07,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-07,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-07,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-07,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-11,SAML response reported an IdP error.
+2018-06-11,Unable to establish security of incoming assertion.
+2018-06-11,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-11,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-11,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-11,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-11,Unable to locate satisfiable bearer SubjectConfirmation in assertion.
+2018-06-12,SAML response reported an IdP error.
+2018-06-12,Shibboleth handler invoked at an unconfigured location.
+2018-06-12,Shibboleth handler invoked at an unconfigured location.
+2018-06-12,Shibboleth handler invoked at an unconfigured location.
+2018-06-14,Invalid content type for PAOS message.
+2018-06-14,Invalid HTTP method (GET).
+2018-06-14,Invalid HTTP method (GET).
+2018-06-14,Invalid HTTP method (GET).
+2018-06-14,Invalid HTTP method (GET).
+2018-06-14,Invalid HTTP method (GET).
+2018-06-14,Invalid HTTP method (GET).
+2018-06-14,Invalid HTTP method (GET).
+2018-06-14,None of the configured SessionInitiators handled the request.
+2018-06-14,None of the configured SessionInitiators handled the request.
+2018-06-14,Request missing SAMLart or TARGET query string parameters.
+2018-06-14,Request missing SAMLart query string or form parameter.
+2018-06-14,Request missing SAMLart query string or form parameter.
+2018-06-19,Invalid HTTP method (GET).
+2018-06-19,SAML response reported an IdP error.
+2018-06-19,SAML response reported an IdP error.
+2018-06-19,SAML response reported an IdP error.
+2018-06-19,SAML response reported an IdP error.
+2018-06-20,Invalid HTTP method (GET).
+2018-06-20,SAML response reported an IdP error.
+2018-06-20,SAML response reported an IdP error.
+2018-06-20,SAML response reported an IdP error.
+2018-06-22,Invalid HTTP method (GET).
+2018-06-25,"Message was signed, but signature could not be verified."
+2018-06-25,"Message was signed, but signature could not be verified."
+2018-06-26,SAML response reported an IdP error.
+2018-06-30,Invalid HTTP method (GET).
+2018-06-30,Invalid HTTP method (GET).
+2018-07-12,Rejecting replayed message ID.
+2018-07-15,Rejecting replayed message ID.
+2018-07-16,Invalid HTTP method (GET).
+2018-07-19,None of the configured SessionInitiators handled the request.
+2018-07-19,SAML response reported an IdP error.
+2018-07-19,Unable to locate metadata for identity provider
+2018-07-20,Shibboleth handler invoked at an unconfigured location.
+2018-07-20,Shibboleth handler invoked at an unconfigured location.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-21,None of the configured SessionInitiators handled the request.
+2018-07-22,None of the configured SessionInitiators handled the request.
+2018-07-25,Invalid content type for PAOS message.
+2018-08-01,SAML response reported an IdP error.
+2018-08-01,SAML response reported an IdP error.
+2018-08-01,SAML response reported an IdP error.
+2018-08-02,SAML response reported an IdP error.
+2018-08-02,SAML response reported an IdP error.
+2018-08-02,Unable to establish security of incoming assertion.
+2018-08-02,Unable to locate metadata for identity provider
+2018-08-03,"Message was signed, but signature could not be verified."
+2018-08-04,Unable to establish security of incoming assertion.
+2018-08-05,Target resource was not an absolute URL.
+2018-08-06,"Message was signed, but signature could not be verified."
+2018-08-07,Invalid HTTP method (GET).
+2018-08-14,Invalid HTTP method (GET).
+2018-08-14,SAML response reported an IdP error.
+2018-08-14,SAML response reported an IdP error.
+2018-08-15,SAML response reported an IdP error.
+2018-08-17,SAML response reported an IdP error.
+2018-08-19,Rejecting replayed message ID.
+2018-08-20,SAML response reported an IdP error.
+2018-08-20,SAML response reported an IdP error.
+2018-08-20,SAML response reported an IdP error.
+2018-08-20,SAML response reported an IdP error.
+2018-08-20,SAML response reported an IdP error.
+2018-09-06,Invalid HTTP method (GET).
+2018-09-06,Invalid HTTP method (GET).
+2018-09-10,Invalid HTTP method (GET).
+2018-09-10,Invalid HTTP method (GET).
+2018-09-17,SAML response reported an IdP error.
+2018-09-24,SAML response reported an IdP error.
+2018-09-28,None of the configured SessionInitiators handled the request.
+2018-10-05,None of the configured SessionInitiators handled the request.
+2018-10-09,None of the configured SessionInitiators handled the request.
+2018-10-09,Rejecting replayed message ID.
+2018-10-12,SAML response reported an IdP error.
+2018-10-12,SAML response reported an IdP error.
+2018-10-12,SAML response reported an IdP error.
+2018-10-12,SAML response reported an IdP error.
+2018-10-12,SAML response reported an IdP error.
+2018-10-12,SAML response reported an IdP error.
+2018-10-16,SAML response reported an IdP error.
+2018-10-16,SAML response reported an IdP error.
+2018-10-23,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-10-23,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-10-23,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-10-26,None of the configured SessionInitiators handled the request.
+2018-10-26,None of the configured SessionInitiators handled the request.
+2018-10-26,Shibboleth handler invoked at an unconfigured location.
+2018-10-30,None of the configured SessionInitiators handled the request.
+2018-10-30,None of the configured SessionInitiators handled the request.
+2018-10-30,SAML response reported an IdP error.
+2018-10-30,SAML response reported an IdP error.
+2018-10-31,Invalid HTTP method (GET).
+2018-11-02,Invalid HTTP method (GET).
+2018-11-02,Invalid HTTP method (GET).
+2018-11-04,Unable to establish security of incoming assertion.
+2018-11-07,SAML response reported an IdP error.
+2018-11-07,Shibboleth handler invoked at an unconfigured location.
+2018-11-08,Request missing SAMLRequest or SAMLResponse form parameter.
+2018-11-12,SAML response reported an IdP error.
+2018-11-12,SAML response reported an IdP error.
+2018-11-12,SAML response reported an IdP error.
+2018-11-16,SAML response reported an IdP error.
+2018-11-16,SAML response reported an IdP error.
+2018-11-20,Rejecting replayed message ID.
+2018-11-20,SAML response reported an IdP error.
+2018-11-21,Shibboleth handler invoked at an unconfigured location.
+2018-11-28,Invalid HTTP method (GET).
+2018-12-01,None of the configured SessionInitiators handled the request.
+2018-12-01,None of the configured SessionInitiators handled the request.
+2018-12-01,None of the configured SessionInitiators handled the request.
+2018-12-01,None of the configured SessionInitiators handled the request.
+2018-12-01,None of the configured SessionInitiators handled the request.
+2018-12-05,Invalid HTTP method (GET).
+2018-12-07,SAML response reported an IdP error.
+2018-12-07,SAML response reported an IdP error.
+2018-12-07,SAML response reported an IdP error.
+2018-12-10,None of the configured SessionInitiators handled the request.
+2018-12-10,SAML response reported an IdP error.
+2018-12-13,Target resource was not an absolute URL.
+2018-12-18,Invalid HTTP method (GET).
+2018-12-18,Invalid HTTP method (GET).
+2018-12-18,"Message was signed, but signature could not be verified."
+2018-12-18,"Message was signed, but signature could not be verified."
+2018-12-19,Unable to establish security of incoming assertion.
+2018-12-19,Unable to establish security of incoming assertion.
+2018-12-19,Unable to establish security of incoming assertion.
+2018-12-19,Unable to establish security of incoming assertion.
+2018-12-19,Unable to establish security of incoming assertion.
+2018-12-19,Unable to establish security of incoming assertion.
+2018-12-19,Unable to establish security of incoming assertion.
+2018-12-19,Unable to establish security of incoming assertion.
+2018-12-28,Invalid HTTP method (GET).
+2019-01-06,Invalid HTTP method (GET).
+2019-01-06,Invalid HTTP method (GET).
+2019-01-07,"Message expired, was issued too long ago."
+2019-01-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-01-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-01-13,SAML response reported an IdP error.
+2019-01-13,SAML response reported an IdP error.
+2019-01-14,SAML response reported an IdP error.
+2019-01-15,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-01-18,None of the configured SessionInitiators handled the request.
+2019-01-18,None of the configured SessionInitiators handled the request.
+2019-01-21,SAML response reported an IdP error.
+2019-01-21,SAML response reported an IdP error.
+2019-01-22,SAML response reported an IdP error.
+2019-01-22,SAML response reported an IdP error.
+2019-01-22,SAML response reported an IdP error.
+2019-01-29,Rejecting replayed message ID.
+2019-01-30,Rejecting replayed message ID.
+2019-01-31,SAML response reported an IdP error.
+2019-01-31,SAML response reported an IdP error.
+2019-01-31,Unable to locate metadata for identity provider
+2019-02-02,Invalid HTTP method (GET).
+2019-02-04,None of the configured SessionInitiators handled the request.
+2019-02-06,SAML response reported an IdP error.
+2019-02-06,SAML response reported an IdP error.
+2019-02-06,SAML response reported an IdP error.
+2019-02-07,Unable to locate metadata for identity provider
+2019-02-08,SAML response reported an IdP error.
+2019-02-08,SAML response reported an IdP error.
+2019-02-08,SAML response reported an IdP error.
+2019-02-08,SAML response reported an IdP error.
+2019-02-08,SAML response reported an IdP error.
+2019-02-08,SAML response reported an IdP error.
+2019-02-11,Invalid HTTP method (GET).
+2019-02-11,SAML response reported an IdP error.
+2019-02-13,None of the configured SessionInitiators handled the request.
+2019-02-14,None of the configured SessionInitiators handled the request.
+2019-02-19,Invalid HTTP method (GET).
+2019-02-20,None of the configured SessionInitiators handled the request.
+2019-02-20,None of the configured SessionInitiators handled the request.
+2019-02-20,None of the configured SessionInitiators handled the request.
+2019-02-20,None of the configured SessionInitiators handled the request.
+2019-02-20,None of the configured SessionInitiators handled the request.
+2019-02-20,None of the configured SessionInitiators handled the request.
+2019-02-20,None of the configured SessionInitiators handled the request.
+2019-02-20,None of the configured SessionInitiators handled the request.
+2019-02-20,SAML response reported an IdP error.
+2019-02-23,SAML response reported an IdP error.
+2019-02-23,SAML response reported an IdP error.
+2019-02-23,SAML response reported an IdP error.
+2019-02-23,SAML response reported an IdP error.
+2019-02-23,SAML response reported an IdP error.
+2019-02-25,None of the configured SessionInitiators handled the request.
+2019-02-25,None of the configured SessionInitiators handled the request.
+2019-02-25,None of the configured SessionInitiators handled the request.
+2019-02-25,Rejecting replayed message ID.
+2019-02-26,Invalid HTTP method (GET).
+2019-02-27,Invalid HTTP method (GET).
+2019-02-27,Shibboleth handler invoked at an unconfigured location.
+2019-02-28,Invalid HTTP method (GET).
+2019-02-28,"Message expired, was issued too long ago."
+2019-02-28,"Message expired, was issued too long ago."
+2019-02-28,"Message expired, was issued too long ago."
+2019-02-28,"Message expired, was issued too long ago."
+2019-02-28,"Message expired, was issued too long ago."
+2019-02-28,None of the configured SessionInitiators handled the request.
+2019-03-05,SAML response reported an IdP error.
+2019-03-05,SAML response reported an IdP error.
+2019-03-05,SAML response reported an IdP error.
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,Invalid HTTP method (GET).
+2019-03-07,"Message expired, was issued too long ago."
+2019-03-07,"Message expired, was issued too long ago."
+2019-03-07,"Message expired, was issued too long ago."
+2019-03-07,None of the configured SessionInitiators handled the request.
+2019-03-07,SAML response reported an IdP error.
+2019-03-07,SAML response reported an IdP error.
+2019-03-09,Invalid HTTP method (GET).
+2019-03-12,Rejecting replayed message ID.
+2019-03-13,Invalid HTTP method (GET).
+2019-03-13,Unable to establish security of incoming assertion.
+2019-03-14,Invalid HTTP method (GET).
+2019-03-17,Invalid HTTP method (GET).
+2019-03-18,None of the configured SessionInitiators handled the request.
+2019-03-18,Rejecting replayed message ID.
+2019-03-18,Rejecting replayed message ID.
+2019-03-19,Invalid HTTP method (GET).
+2019-03-20,Invalid HTTP method (GET).
+2019-03-20,Invalid HTTP method (GET).
+2019-03-20,Invalid HTTP method (GET).
+2019-03-20,Invalid HTTP method (GET).
+2019-03-20,Rejecting replayed message ID.
+2019-03-20,SAML response reported an IdP error.
+2019-03-22,Invalid HTTP method (GET).
+2019-03-27,Rejecting replayed message ID.
+2019-03-31,Invalid HTTP method (GET).
+2019-04-01,"Message expired, was issued too long ago."
+2019-04-02,Rejecting replayed message ID.
+2019-04-03,Rejecting replayed message ID.
+2019-04-04,Invalid HTTP method (GET).
+2019-04-05,SAML response reported an IdP error.
+2019-04-06,Invalid HTTP method (GET).
+2019-04-09,Invalid HTTP method (GET).
+2019-04-09,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-04-11,Invalid HTTP method (GET).
+2019-04-11,Invalid HTTP method (GET).
+2019-04-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-04-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-04-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-04-11,SAML response reported an IdP error.
+2019-04-15,None of the configured SessionInitiators handled the request.
+2019-04-17,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-04-18,Invalid HTTP method (GET).
+2019-04-18,"Message expired, was issued too long ago."
+2019-04-18,SAML response reported an IdP error.
+2019-04-21,Invalid HTTP method (GET).
+2019-04-21,Invalid HTTP method (GET).
+2019-04-22,None of the configured SessionInitiators handled the request.
+2019-04-23,Invalid HTTP method (GET).
+2019-04-23,None of the configured SessionInitiators handled the request.
+2019-04-23,SAML response reported an IdP error.
+2019-04-24,Invalid HTTP method (GET).
+2019-04-26,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-04-27,None of the configured SessionInitiators handled the request.
+2019-04-28,Invalid HTTP method (GET).
+2019-04-29,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-04-30,Invalid HTTP method (GET).
+2019-04-30,Invalid HTTP method (GET).
+2019-04-30,None of the configured SessionInitiators handled the request.
+2019-05-03,Invalid HTTP method (GET).
+2019-05-06,None of the configured SessionInitiators handled the request.
+2019-05-08,SAML response reported an IdP error.
+2019-05-08,SAML response reported an IdP error.
+2019-05-08,SAML response reported an IdP error.
+2019-05-09,Rejecting replayed message ID.
+2019-05-10,None of the configured SessionInitiators handled the request.
+2019-05-12,Invalid HTTP method (GET).
+2019-05-14,Invalid HTTP method (GET).
+2019-05-16,None of the configured SessionInitiators handled the request.
+2019-05-16,Unable to establish security of incoming assertion.
+2019-05-18,Invalid HTTP method (GET).
+2019-05-20,Invalid HTTP method (GET).
+2019-05-20,None of the configured SessionInitiators handled the request.
+2019-05-21,Rejecting replayed message ID.
+2019-05-22,Invalid HTTP method (GET).
+2019-05-22,Invalid HTTP method (GET).
+2019-05-23,Rejecting replayed message ID.
+2019-05-23,Rejecting replayed message ID.
+2019-05-25,Invalid HTTP method (GET).
+2019-05-27,Invalid HTTP method (GET).
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-27,"Message was signed, but signature could not be verified."
+2019-05-28,Invalid HTTP method (GET).
+2019-05-28,Invalid HTTP method (GET).
+2019-05-28,Invalid HTTP method (GET).
+2019-05-28,Invalid HTTP method (GET).
+2019-05-28,"Message expired, was issued too long ago."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-28,"Message was signed, but signature could not be verified."
+2019-05-29,Invalid HTTP method (GET).
+2019-05-31,Invalid HTTP method (GET).
+2019-06-01,None of the configured SessionInitiators handled the request.
+2019-06-03,None of the configured SessionInitiators handled the request.
+2019-06-04,Invalid HTTP method (GET).
+2019-06-06,Invalid HTTP method (GET).
+2019-06-06,None of the configured SessionInitiators handled the request.
+2019-06-06,Rejecting replayed message ID.
+2019-06-06,SAML response reported an IdP error.
+2019-06-07,Invalid HTTP method (GET).
+2019-06-10,SAML response reported an IdP error.
+2019-06-10,SAML response reported an IdP error.
+2019-06-11,Invalid HTTP method (GET).
+2019-06-11,Invalid HTTP method (GET).
+2019-06-11,Invalid HTTP method (GET).
+2019-06-11,SAML response reported an IdP error.
+2019-06-13,None of the configured SessionInitiators handled the request.
+2019-06-14,None of the configured SessionInitiators handled the request.
+2019-06-15,Invalid HTTP method (GET).
+2019-06-15,Invalid HTTP method (GET).
+2019-06-17,Invalid HTTP method (GET).
+2019-06-17,SAML response reported an IdP error.
+2019-06-18,Invalid HTTP method (GET).
+2019-06-19,SAML response reported an IdP error.
+2019-06-20,Rejecting replayed message ID.
+2019-06-23,Invalid HTTP method (GET).
+2019-06-23,None of the configured SessionInitiators handled the request.
+2019-06-25,None of the configured SessionInitiators handled the request.
+2019-06-25,None of the configured SessionInitiators handled the request.
+2019-06-25,SAML response reported an IdP error.
+2019-06-25,SAML response reported an IdP error.
+2019-06-25,SAML response reported an IdP error.
+2019-06-26,Attempt to spoof header (REMOTE_USER) was detected.
+2019-06-26,Attempt to spoof header (REMOTE_USER) was detected.
+2019-06-27,None of the configured SessionInitiators handled the request.
+2019-06-27,None of the configured SessionInitiators handled the request.
+2019-06-27,SAML response reported an IdP error.
+2019-06-27,SAML response reported an IdP error.
+2019-06-27,SAML response reported an IdP error.
+2019-06-27,SAML response reported an IdP error.
+2019-06-28,None of the configured SessionInitiators handled the request.
+2019-06-28,None of the configured SessionInitiators handled the request.
+2019-07-01,None of the configured SessionInitiators handled the request.
+2019-07-03,Invalid HTTP method (GET).
+2019-07-03,None of the configured SessionInitiators handled the request.
+2019-07-05,Invalid HTTP method (GET).
+2019-07-05,None of the configured SessionInitiators handled the request.
+2019-07-05,None of the configured SessionInitiators handled the request.
+2019-07-05,None of the configured SessionInitiators handled the request.
+2019-07-05,SAML response reported an IdP error.
+2019-07-06,None of the configured SessionInitiators handled the request.
+2019-07-06,None of the configured SessionInitiators handled the request.
+2019-07-07,None of the configured SessionInitiators handled the request.
+2019-07-07,None of the configured SessionInitiators handled the request.
+2019-07-07,Rejecting replayed message ID.
+2019-07-08,None of the configured SessionInitiators handled the request.
+2019-07-08,None of the configured SessionInitiators handled the request.
+2019-07-08,Target resource was not an absolute URL.
+2019-07-10,Invalid HTTP method (GET).
+2019-07-10,Invalid HTTP method (GET).
+2019-07-10,Invalid HTTP method (GET).
+2019-07-10,Invalid HTTP method (GET).
+2019-07-10,Invalid HTTP method (GET).
+2019-07-10,Invalid HTTP method (GET).
+2019-07-10,Invalid HTTP method (GET).
+2019-07-12,Invalid HTTP method (GET).
+2019-07-12,Invalid HTTP method (GET).
+2019-07-12,Invalid HTTP method (GET).
+2019-07-12,None of the configured SessionInitiators handled the request.
+2019-07-12,None of the configured SessionInitiators handled the request.
+2019-07-13,Invalid HTTP method (GET).
+2019-07-16,None of the configured SessionInitiators handled the request.
+2019-07-16,Target resource was not an absolute URL.
+2019-07-18,Invalid HTTP method (GET).
+2019-07-18,None of the configured SessionInitiators handled the request.
+2019-07-18,None of the configured SessionInitiators handled the request.
+2019-07-18,None of the configured SessionInitiators handled the request.
+2019-07-18,None of the configured SessionInitiators handled the request.
+2019-07-19,Rejecting replayed message ID.
+2019-07-20,SAML response reported an IdP error.
+2019-07-22,"Message expired, was issued too long ago."
+2019-07-22,Rejecting replayed message ID.
+2019-07-22,Rejecting replayed message ID.
+2019-07-22,Rejecting replayed message ID.
+2019-07-22,Rejecting replayed message ID.
+2019-07-23,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,Invalid HTTP method (GET).
+2019-07-24,None of the configured SessionInitiators handled the request.
+2019-07-24,None of the configured SessionInitiators handled the request.
+2019-07-24,None of the configured SessionInitiators handled the request.
+2019-07-24,None of the configured SessionInitiators handled the request.
+2019-07-25,Invalid HTTP method (GET).
+2019-07-25,Invalid HTTP method (GET).
+2019-07-25,Invalid HTTP method (GET).
+2019-07-25,Invalid HTTP method (GET).
+2019-07-26,None of the configured SessionInitiators handled the request.
+2019-07-26,None of the configured SessionInitiators handled the request.
+2019-07-29,Invalid HTTP method (GET).
+2019-07-29,Invalid HTTP method (GET).
+2019-07-29,None of the configured SessionInitiators handled the request.
+2019-07-30,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-07-31,Invalid HTTP method (GET).
+2019-07-31,Invalid HTTP method (GET).
+2019-07-31,"Message was signed, but signature could not be verified."
+2019-07-31,"Message was signed, but signature could not be verified."
+2019-07-31,"Message was signed, but signature could not be verified."
+2019-07-31,None of the configured SessionInitiators handled the request.
+2019-08-01,Invalid HTTP method (GET).
+2019-08-01,None of the configured SessionInitiators handled the request.
+2019-08-03,Invalid HTTP method (GET).
+2019-08-03,None of the configured SessionInitiators handled the request.
+2019-08-03,None of the configured SessionInitiators handled the request.
+2019-08-04,"Message expired, was issued too long ago."
+2019-08-07,Invalid HTTP method (GET).
+2019-08-07,Invalid HTTP method (GET).
+2019-08-07,"Message was signed, but signature could not be verified."
+2019-08-07,None of the configured SessionInitiators handled the request.
+2019-08-07,None of the configured SessionInitiators handled the request.
+2019-08-08,None of the configured SessionInitiators handled the request.
+2019-08-08,None of the configured SessionInitiators handled the request.
+2019-08-08,SAML response reported an IdP error.
+2019-08-09,None of the configured SessionInitiators handled the request.
+2019-08-09,None of the configured SessionInitiators handled the request.
+2019-08-10,Invalid HTTP method (GET).
+2019-08-11,SAML response reported an IdP error.
+2019-08-11,SAML response reported an IdP error.
+2019-08-13,None of the configured SessionInitiators handled the request.
+2019-08-13,None of the configured SessionInitiators handled the request.
+2019-08-13,None of the configured SessionInitiators handled the request.
+2019-08-13,None of the configured SessionInitiators handled the request.
+2019-08-15,Invalid HTTP method (GET).
+2019-08-15,Invalid HTTP method (GET).
+2019-08-15,Invalid HTTP method (GET).
+2019-08-15,SAML response reported an IdP error.
+2019-08-15,SAML response reported an IdP error.
+2019-08-16,None of the configured SessionInitiators handled the request.
+2019-08-16,None of the configured SessionInitiators handled the request.
+2019-08-16,None of the configured SessionInitiators handled the request.
+2019-08-16,None of the configured SessionInitiators handled the request.
+2019-08-16,None of the configured SessionInitiators handled the request.
+2019-08-19,"Cannot connect to shibd process, a site administrator should be notified that this web server has malfunctioned."
+2019-08-19,None of the configured SessionInitiators handled the request.
+2019-08-19,None of the configured SessionInitiators handled the request.
+2019-08-19,None of the configured SessionInitiators handled the request.
+2019-08-19,None of the configured SessionInitiators handled the request.
+2019-08-20,"Cannot connect to shibd process, a site administrator should be notified that this web server has malfunctioned."
+2019-08-20,Invalid HTTP method (GET).
+2019-08-20,None of the configured SessionInitiators handled the request.
+2019-08-20,None of the configured SessionInitiators handled the request.
+2019-08-20,None of the configured SessionInitiators handled the request.
+2019-08-20,None of the configured SessionInitiators handled the request.
+2019-08-21,SAML response reported an IdP error.
+2019-08-21,SAML response reported an IdP error.
+2019-08-21,SAML response reported an IdP error.
+2019-08-23,Invalid HTTP method (GET).
+2019-08-23,Invalid HTTP method (GET).
+2019-08-23,Invalid HTTP method (GET).
+2019-08-23,Invalid HTTP method (GET).
+2019-08-23,None of the configured SessionInitiators handled the request.
+2019-08-23,None of the configured SessionInitiators handled the request.
+2019-08-24,None of the configured SessionInitiators handled the request.
+2019-08-24,None of the configured SessionInitiators handled the request.
+2019-08-24,None of the configured SessionInitiators handled the request.
+2019-08-24,None of the configured SessionInitiators handled the request.
+2019-08-27,Invalid HTTP method (GET).
+2019-08-27,Invalid HTTP method (GET).
+2019-08-27,Invalid HTTP method (GET).
+2019-08-27,None of the configured SessionInitiators handled the request.
+2019-08-27,None of the configured SessionInitiators handled the request.
+2019-08-27,None of the configured SessionInitiators handled the request.
+2019-08-27,None of the configured SessionInitiators handled the request.
+2019-08-29,Invalid HTTP method (GET).
+2019-08-29,Invalid HTTP method (GET).
+2019-08-29,Invalid HTTP method (GET).
+2019-08-29,Invalid HTTP method (GET).
+2019-08-29,Invalid HTTP method (GET).
+2019-08-29,Invalid HTTP method (GET).
+2019-08-29,None of the configured SessionInitiators handled the request.
+2019-08-29,None of the configured SessionInitiators handled the request.
+2019-08-29,None of the configured SessionInitiators handled the request.
+2019-08-29,None of the configured SessionInitiators handled the request.
+2019-08-30,Invalid HTTP method (GET).
+2019-08-30,Invalid HTTP method (GET).
+2019-08-30,Invalid HTTP method (GET).
+2019-08-30,Invalid HTTP method (GET).
+2019-08-30,Invalid HTTP method (GET).
+2019-08-30,None of the configured SessionInitiators handled the request.
+2019-08-30,None of the configured SessionInitiators handled the request.
+2019-08-30,SAML response reported an IdP error.
+2019-08-31,Invalid HTTP method (GET).
+2019-08-31,Invalid HTTP method (GET).
+2019-09-02,Invalid HTTP method (GET).
+2019-09-02,None of the configured SessionInitiators handled the request.
+2019-09-05,Invalid HTTP method (GET).
+2019-09-05,None of the configured SessionInitiators handled the request.
+2019-09-05,None of the configured SessionInitiators handled the request.
+2019-09-06,None of the configured SessionInitiators handled the request.
+2019-09-06,None of the configured SessionInitiators handled the request.
+2019-09-09,SAML response reported an IdP error.
+2019-09-11,"Message expired, was issued too long ago."
+2019-09-12,Invalid HTTP method (GET).
+2019-09-12,None of the configured SessionInitiators handled the request.
+2019-09-13,Invalid HTTP method (GET).
+2019-09-13,None of the configured SessionInitiators handled the request.
+2019-09-13,Rejecting replayed message ID.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-13,SAML response reported an IdP error.
+2019-09-15,Invalid HTTP method (GET).
+2019-09-15,None of the configured SessionInitiators handled the request.
+2019-09-16,Invalid HTTP method (GET).
+2019-09-16,Invalid HTTP method (GET).
+2019-09-16,Invalid HTTP method (GET).
+2019-09-16,Invalid HTTP method (GET).
+2019-09-16,Invalid HTTP method (GET).
+2019-09-16,None of the configured SessionInitiators handled the request.
+2019-09-16,None of the configured SessionInitiators handled the request.
+2019-09-17,Invalid HTTP method (GET).
+2019-09-17,Invalid HTTP method (GET).
+2019-09-17,Invalid HTTP method (GET).
+2019-09-17,Invalid HTTP method (GET).
+2019-09-17,None of the configured SessionInitiators handled the request.
+2019-09-17,None of the configured SessionInitiators handled the request.
+2019-09-17,Shibboleth handler invoked at an unconfigured location.
+2019-09-17,Unable to establish security of incoming assertion.
+2019-09-17,Unable to establish security of incoming assertion.
+2019-09-17,Unable to establish security of incoming assertion.
+2019-09-17,Unable to establish security of incoming assertion.
+2019-09-17,Unable to establish security of incoming assertion.
+2019-09-17,Unable to establish security of incoming assertion.
+2019-09-18,Invalid HTTP method (GET).
+2019-09-18,Invalid HTTP method (GET).
+2019-09-18,Invalid HTTP method (GET).
+2019-09-18,SAML response reported an IdP error.
+2019-09-18,SAML response reported an IdP error.
+2019-09-18,SAML response reported an IdP error.
+2019-09-19,None of the configured SessionInitiators handled the request.
+2019-09-19,None of the configured SessionInitiators handled the request.
+2019-09-19,Rejecting replayed message ID.
+2019-09-20,None of the configured SessionInitiators handled the request.
+2019-09-20,None of the configured SessionInitiators handled the request.
+2019-09-21,None of the configured SessionInitiators handled the request.
+2019-09-21,None of the configured SessionInitiators handled the request.
+2019-09-21,None of the configured SessionInitiators handled the request.
+2019-09-21,None of the configured SessionInitiators handled the request.
+2019-09-22,Invalid HTTP method (GET).
+2019-09-22,Invalid HTTP method (GET).
+2019-09-22,None of the configured SessionInitiators handled the request.
+2019-09-22,None of the configured SessionInitiators handled the request.
+2019-09-22,None of the configured SessionInitiators handled the request.
+2019-09-22,None of the configured SessionInitiators handled the request.
+2019-09-23,Invalid HTTP method (GET).
+2019-09-23,Invalid HTTP method (GET).
+2019-09-23,None of the configured SessionInitiators handled the request.
+2019-09-23,None of the configured SessionInitiators handled the request.
+2019-09-23,None of the configured SessionInitiators handled the request.
+2019-09-23,None of the configured SessionInitiators handled the request.
+2019-09-23,None of the configured SessionInitiators handled the request.
+2019-09-24,Invalid HTTP method (GET).
+2019-09-24,Invalid HTTP method (GET).
+2019-09-24,Invalid HTTP method (GET).
+2019-09-24,None of the configured SessionInitiators handled the request.
+2019-09-24,None of the configured SessionInitiators handled the request.
+2019-09-25,None of the configured SessionInitiators handled the request.
+2019-09-25,None of the configured SessionInitiators handled the request.
+2019-09-26,Invalid HTTP method (GET).
+2019-09-26,Invalid HTTP method (GET).
+2019-09-26,None of the configured SessionInitiators handled the request.
+2019-09-26,None of the configured SessionInitiators handled the request.
+2019-09-26,None of the configured SessionInitiators handled the request.
+2019-09-26,None of the configured SessionInitiators handled the request.
+2019-09-26,SAML response reported an IdP error.
+2019-09-27,Invalid HTTP method (GET).
+2019-09-27,Invalid HTTP method (GET).
+2019-09-27,Invalid HTTP method (GET).
+2019-09-27,None of the configured SessionInitiators handled the request.
+2019-09-27,None of the configured SessionInitiators handled the request.
+2019-09-27,None of the configured SessionInitiators handled the request.
+2019-09-27,None of the configured SessionInitiators handled the request.
+2019-09-28,Invalid HTTP method (GET).
+2019-09-28,None of the configured SessionInitiators handled the request.
+2019-09-28,None of the configured SessionInitiators handled the request.
+2019-09-28,None of the configured SessionInitiators handled the request.
+2019-09-29,None of the configured SessionInitiators handled the request.
+2019-10-01,Invalid HTTP method (GET).
+2019-10-02,Invalid HTTP method (GET).
+2019-10-02,None of the configured SessionInitiators handled the request.
+2019-10-02,None of the configured SessionInitiators handled the request.
+2019-10-02,None of the configured SessionInitiators handled the request.
+2019-10-02,None of the configured SessionInitiators handled the request.
+2019-10-02,None of the configured SessionInitiators handled the request.
+2019-10-03,Invalid HTTP method (GET).
+2019-10-03,SAML response reported an IdP error.
+2019-10-04,Invalid HTTP method (GET).
+2019-10-04,None of the configured SessionInitiators handled the request.
+2019-10-04,None of the configured SessionInitiators handled the request.
+2019-10-04,None of the configured SessionInitiators handled the request.
+2019-10-05,None of the configured SessionInitiators handled the request.
+2019-10-07,Rejecting replayed message ID.
+2019-10-07,SAML response reported an IdP error.
+2019-10-07,SAML response reported an IdP error.
+2019-10-08,Invalid HTTP method (GET).
+2019-10-08,Invalid HTTP method (GET).
+2019-10-08,None of the configured SessionInitiators handled the request.
+2019-10-08,SAML response reported an IdP error.
+2019-10-08,SAML response reported an IdP error.
+2019-10-10,Invalid HTTP method (GET).
+2019-10-11,Invalid HTTP method (GET).
+2019-10-11,Invalid HTTP method (GET).
+2019-10-11,Invalid HTTP method (GET).
+2019-10-11,Invalid HTTP method (GET).
+2019-10-11,Invalid HTTP method (GET).
+2019-10-11,Invalid HTTP method (GET).
+2019-10-11,None of the configured SessionInitiators handled the request.
+2019-10-11,None of the configured SessionInitiators handled the request.
+2019-10-11,None of the configured SessionInitiators handled the request.
+2019-10-11,None of the configured SessionInitiators handled the request.
+2019-10-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-10-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2019-10-11,Shibboleth handler invoked at an unconfigured location.
+2019-10-11,Shibboleth handler invoked at an unconfigured location.
+2019-10-12,None of the configured SessionInitiators handled the request.
+2019-10-12,None of the configured SessionInitiators handled the request.
+2019-10-12,None of the configured SessionInitiators handled the request.
+2019-10-12,None of the configured SessionInitiators handled the request.
+2019-10-14,None of the configured SessionInitiators handled the request.
+2019-10-14,None of the configured SessionInitiators handled the request.
+2019-10-14,None of the configured SessionInitiators handled the request.
+2019-10-14,None of the configured SessionInitiators handled the request.
+2019-10-14,None of the configured SessionInitiators handled the request.
+2019-10-14,SAML response reported an IdP error.
+2019-10-14,SAML response reported an IdP error.
+2019-10-14,SAML response reported an IdP error.
+2019-10-14,SAML response reported an IdP error.
+2019-10-14,SAML response reported an IdP error.
+2019-10-16,Invalid HTTP method (GET).
+2019-10-16,Invalid HTTP method (GET).
+2019-10-16,Invalid HTTP method (GET).
+2019-10-16,Invalid HTTP method (GET).
+2019-10-16,Invalid HTTP method (GET).
+2019-10-16,Invalid HTTP method (GET).
+2019-10-16,None of the configured SessionInitiators handled the request.
+2019-10-16,None of the configured SessionInitiators handled the request.
+2019-10-16,None of the configured SessionInitiators handled the request.
+2019-10-16,None of the configured SessionInitiators handled the request.
+2019-10-17,Invalid HTTP method (GET).
+2019-10-17,Invalid HTTP method (GET).
+2019-10-17,None of the configured SessionInitiators handled the request.
+2019-10-17,None of the configured SessionInitiators handled the request.
+2019-10-17,None of the configured SessionInitiators handled the request.
+2019-10-18,Invalid HTTP method (GET).
+2019-10-18,None of the configured SessionInitiators handled the request.
+2019-10-19,Invalid content type for PAOS message.
+2019-10-19,Invalid content type for PAOS message.
+2019-10-19,Invalid content type for PAOS message.
+2019-10-19,Invalid content type for PAOS message.
+2019-10-19,Unable to establish security of incoming assertion.
+2019-10-20,Invalid HTTP method (GET).
+2019-10-20,None of the configured SessionInitiators handled the request.
+2019-10-21,Rejecting replayed message ID.
+2019-10-21,Rejecting replayed message ID.
+2019-10-22,Invalid HTTP method (GET).
+2019-10-22,Invalid HTTP method (GET).
+2019-10-22,Invalid HTTP method (GET).
+2019-10-22,Invalid HTTP method (GET).
+2019-10-22,Invalid HTTP method (GET).
+2019-10-22,None of the configured SessionInitiators handled the request.
+2019-10-22,None of the configured SessionInitiators handled the request.
+2019-10-22,None of the configured SessionInitiators handled the request.
+2019-10-22,None of the configured SessionInitiators handled the request.
+2019-10-22,None of the configured SessionInitiators handled the request.
+2019-10-23,Rejecting replayed message ID.
+2019-10-23,Rejecting replayed message ID.
+2019-10-23,Rejecting replayed message ID.
+2019-10-24,Invalid HTTP method (GET).
+2019-10-24,Invalid HTTP method (GET).
+2019-10-24,Invalid HTTP method (GET).
+2019-10-24,Invalid HTTP method (GET).
+2019-10-25,Invalid HTTP method (GET).
+2019-10-25,None of the configured SessionInitiators handled the request.
+2019-10-25,None of the configured SessionInitiators handled the request.
+2019-10-25,None of the configured SessionInitiators handled the request.
+2019-10-25,None of the configured SessionInitiators handled the request.
+2019-10-27,Invalid HTTP method (GET).
+2019-10-27,None of the configured SessionInitiators handled the request.
+2019-10-28,Rejecting replayed message ID.
+2019-10-28,Rejecting replayed message ID.
+2019-10-28,Rejecting replayed message ID.
+2019-10-28,Rejecting replayed message ID.
+2019-10-28,Rejecting replayed message ID.
+2019-10-28,Rejecting replayed message ID.
+2019-10-28,Rejecting replayed message ID.
+2019-10-29,Invalid HTTP method (GET).
+2019-10-29,Invalid HTTP method (GET).
+2019-10-29,None of the configured SessionInitiators handled the request.
+2019-10-29,None of the configured SessionInitiators handled the request.
+2019-10-29,None of the configured SessionInitiators handled the request.
+2019-10-29,SAML response reported an IdP error.
+2019-10-29,SAML response reported an IdP error.
+2019-10-30,Invalid HTTP method (GET).
+2019-10-30,None of the configured SessionInitiators handled the request.
+2019-10-31,Rejecting replayed message ID.
+2019-10-31,SAML response reported an IdP error.
+2019-10-31,SAML response reported an IdP error.
+2019-10-31,SAML response reported an IdP error.
+2019-10-31,SAML response reported an IdP error.
+2019-11-01,Invalid HTTP method (GET).
+2019-11-01,None of the configured SessionInitiators handled the request.
+2019-11-01,None of the configured SessionInitiators handled the request.
+2019-11-01,Rejecting replayed message ID.
+2019-11-04,Attempt to spoof header (eppn) was detected.
+2019-11-04,Invalid HTTP method (GET).
+2019-11-04,Invalid HTTP method (GET).
+2019-11-04,Invalid HTTP method (GET).
+2019-11-04,Invalid HTTP method (GET).
+2019-11-04,None of the configured SessionInitiators handled the request.
+2019-11-04,None of the configured SessionInitiators handled the request.
+2019-11-04,None of the configured SessionInitiators handled the request.
+2019-11-04,None of the configured SessionInitiators handled the request.
+2019-11-05,Invalid HTTP method (GET).
+2019-11-05,None of the configured SessionInitiators handled the request.
+2019-11-05,None of the configured SessionInitiators handled the request.
+2019-11-06,None of the configured SessionInitiators handled the request.
+2019-11-06,None of the configured SessionInitiators handled the request.
+2019-11-07,Attempt to spoof header (eppn) was detected.
+2019-11-07,Attempt to spoof header (eppn) was detected.
+2019-11-07,Invalid HTTP method (GET).
+2019-11-07,None of the configured SessionInitiators handled the request.
+2019-11-07,None of the configured SessionInitiators handled the request.
+2019-11-07,None of the configured SessionInitiators handled the request.
+2019-11-07,None of the configured SessionInitiators handled the request.
+2019-11-07,None of the configured SessionInitiators handled the request.
+2019-11-07,None of the configured SessionInitiators handled the request.
+2019-11-07,SAML response reported an IdP error.
+2019-11-07,SAML response reported an IdP error.
+2019-11-07,SAML response reported an IdP error.
+2019-11-07,SAML response reported an IdP error.
+2019-11-08,Invalid HTTP method (GET).
+2019-11-08,None of the configured SessionInitiators handled the request.
+2019-11-09,Invalid HTTP method (GET).
+2019-11-09,None of the configured SessionInitiators handled the request.
+2019-11-11,Rejecting replayed message ID.
+2019-11-12,None of the configured SessionInitiators handled the request.
+2019-11-14,None of the configured SessionInitiators handled the request.
+2019-11-14,None of the configured SessionInitiators handled the request.
+2019-11-14,None of the configured SessionInitiators handled the request.
+2019-11-14,Rejecting replayed message ID.
+2019-11-15,Invalid HTTP method (GET).
+2019-11-15,Invalid HTTP method (GET).
+2019-11-15,None of the configured SessionInitiators handled the request.
+2019-11-15,Rejecting replayed message ID.
+2019-11-15,SAML response reported an IdP error.
+2019-11-18,None of the configured SessionInitiators handled the request.
+2019-11-18,None of the configured SessionInitiators handled the request.
+2019-11-18,None of the configured SessionInitiators handled the request.
+2019-11-18,None of the configured SessionInitiators handled the request.
+2019-11-19,Invalid HTTP method (GET).
+2019-11-19,None of the configured SessionInitiators handled the request.
+2019-11-19,SAML response reported an IdP error.
+2019-11-19,SAML response reported an IdP error.
+2019-11-20,None of the configured SessionInitiators handled the request.
+2019-11-20,Shibboleth handler invoked at an unconfigured location.
+2019-11-21,None of the configured SessionInitiators handled the request.
+2019-11-21,None of the configured SessionInitiators handled the request.
+2019-11-21,None of the configured SessionInitiators handled the request.
+2019-11-22,None of the configured SessionInitiators handled the request.
+2019-11-22,Rejecting replayed message ID.
+2019-11-25,Invalid HTTP method (GET).
+2019-11-25,Invalid HTTP method (GET).
+2019-11-25,Invalid HTTP method (GET).
+2019-11-25,Invalid HTTP method (GET).
+2019-11-25,Invalid HTTP method (GET).
+2019-11-25,SAML response reported an IdP error.
+2019-11-25,SAML response reported an IdP error.
+2019-11-25,SAML response reported an IdP error.
+2019-11-25,SAML response reported an IdP error.
+2019-11-25,SAML response reported an IdP error.
+2019-11-26,None of the configured SessionInitiators handled the request.
+2019-11-26,None of the configured SessionInitiators handled the request.
+2019-11-27,None of the configured SessionInitiators handled the request.
+2019-11-27,None of the configured SessionInitiators handled the request.
+2019-11-28,Invalid HTTP method (GET).
+2019-11-28,None of the configured SessionInitiators handled the request.
+2019-11-29,SAML response reported an IdP error.
+2019-11-30,Invalid HTTP method (GET).
+2019-11-30,Invalid HTTP method (GET).
+2019-11-30,Invalid HTTP method (GET).
+2019-11-30,Invalid HTTP method (GET).
+2019-11-30,None of the configured SessionInitiators handled the request.
+2019-11-30,None of the configured SessionInitiators handled the request.
+2019-11-30,None of the configured SessionInitiators handled the request.
+2019-11-30,None of the configured SessionInitiators handled the request.
+2019-12-01,Invalid HTTP method (GET).
+2019-12-01,None of the configured SessionInitiators handled the request.
+2019-12-01,None of the configured SessionInitiators handled the request.
+2019-12-01,None of the configured SessionInitiators handled the request.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Rejecting replayed message ID.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-02,Unable to establish security of incoming assertion.
+2019-12-04,Rejecting replayed message ID.
+2019-12-04,SAML response reported an IdP error.
+2019-12-04,SAML response reported an IdP error.
+2019-12-05,Rejecting replayed message ID.
+2019-12-05,Rejecting replayed message ID.
+2019-12-05,Rejecting replayed message ID.
+2019-12-05,Rejecting replayed message ID.
+2019-12-05,Rejecting replayed message ID.
+2019-12-05,SAML response reported an IdP error.
+2019-12-05,SAML response reported an IdP error.
+2019-12-05,SAML response reported an IdP error.
+2019-12-07,None of the configured SessionInitiators handled the request.
+2019-12-07,None of the configured SessionInitiators handled the request.
+2019-12-08,Invalid HTTP method (GET).
+2019-12-08,Invalid HTTP method (GET).
+2019-12-09,Invalid HTTP method (GET).
+2019-12-09,None of the configured SessionInitiators handled the request.
+2019-12-10,Invalid HTTP method (GET).
+2019-12-11,None of the configured SessionInitiators handled the request.
+2019-12-11,None of the configured SessionInitiators handled the request.
+2019-12-11,None of the configured SessionInitiators handled the request.
+2019-12-11,None of the configured SessionInitiators handled the request.
+2019-12-11,None of the configured SessionInitiators handled the request.
+2019-12-12,None of the configured SessionInitiators handled the request.
+2019-12-13,None of the configured SessionInitiators handled the request.
+2019-12-15,None of the configured SessionInitiators handled the request.
+2019-12-15,None of the configured SessionInitiators handled the request.
+2019-12-15,None of the configured SessionInitiators handled the request.
+2019-12-15,None of the configured SessionInitiators handled the request.
+2019-12-16,Invalid HTTP method (GET).
+2019-12-16,Invalid HTTP method (GET).
+2019-12-16,None of the configured SessionInitiators handled the request.
+2019-12-16,None of the configured SessionInitiators handled the request.
+2019-12-16,None of the configured SessionInitiators handled the request.
+2019-12-17,Invalid HTTP method (GET).
+2019-12-17,Invalid HTTP method (GET).
+2019-12-17,None of the configured SessionInitiators handled the request.
+2019-12-17,None of the configured SessionInitiators handled the request.
+2019-12-18,None of the configured SessionInitiators handled the request.
+2019-12-19,Invalid HTTP method (GET).
+2019-12-19,Invalid HTTP method (GET).
+2019-12-19,Invalid HTTP method (GET).
+2019-12-19,Invalid HTTP method (GET).
+2019-12-19,Invalid HTTP method (GET).
+2019-12-19,None of the configured SessionInitiators handled the request.
+2019-12-19,None of the configured SessionInitiators handled the request.
+2019-12-20,Rejecting replayed message ID.
+2019-12-20,Rejecting replayed message ID.
+2019-12-20,Rejecting replayed message ID.
+2019-12-26,Invalid HTTP method (GET).
+2019-12-26,Invalid HTTP method (GET).
+2019-12-26,Invalid HTTP method (GET).
+2019-12-26,None of the configured SessionInitiators handled the request.
+2019-12-26,None of the configured SessionInitiators handled the request.
+2019-12-26,None of the configured SessionInitiators handled the request.
+2019-12-27,Invalid HTTP method (GET).
+2019-12-27,Invalid HTTP method (GET).
+2019-12-27,None of the configured SessionInitiators handled the request.
+2019-12-27,None of the configured SessionInitiators handled the request.
+2019-12-27,None of the configured SessionInitiators handled the request.
+2019-12-27,None of the configured SessionInitiators handled the request.
+2019-12-29,Invalid HTTP method (GET).
+2019-12-29,None of the configured SessionInitiators handled the request.
+2019-12-30,Invalid HTTP method (GET).
+2019-12-30,None of the configured SessionInitiators handled the request.
+2019-12-30,None of the configured SessionInitiators handled the request.
+2019-12-30,None of the configured SessionInitiators handled the request.
+2019-12-30,None of the configured SessionInitiators handled the request.
+2019-12-30,None of the configured SessionInitiators handled the request.
+2019-12-30,None of the configured SessionInitiators handled the request.
+2020-01-03,Invalid HTTP method (GET).
+2020-01-03,None of the configured SessionInitiators handled the request.
+2020-01-03,Rejecting replayed message ID.
+2020-01-05,Invalid HTTP method (GET).
+2020-01-05,None of the configured SessionInitiators handled the request.
+2020-01-05,None of the configured SessionInitiators handled the request.
+2020-01-05,None of the configured SessionInitiators handled the request.
+2020-01-06,Invalid HTTP method (GET).
+2020-01-06,None of the configured SessionInitiators handled the request.
+2020-01-09,Invalid HTTP method (GET).
+2020-01-10,Invalid HTTP method (GET).
+2020-01-13,Invalid HTTP method (GET).
+2020-01-13,Invalid HTTP method (GET).
+2020-01-13,Invalid HTTP method (GET).
+2020-01-13,Invalid HTTP method (GET).
+2020-01-13,Invalid HTTP method (GET).
+2020-01-13,None of the configured SessionInitiators handled the request.
+2020-01-13,None of the configured SessionInitiators handled the request.
+2020-01-13,None of the configured SessionInitiators handled the request.
+2020-01-13,None of the configured SessionInitiators handled the request.
+2020-01-13,None of the configured SessionInitiators handled the request.
+2020-01-13,None of the configured SessionInitiators handled the request.
+2020-01-13,Rejecting replayed message ID.
+2020-01-13,SAML response reported an IdP error.
+2020-01-13,SAML response reported an IdP error.
+2020-01-13,SAML response reported an IdP error.
+2020-01-13,SAML response reported an IdP error.
+2020-01-14,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-01-14,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-01-14,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-01-15,None of the configured SessionInitiators handled the request.
+2020-01-15,None of the configured SessionInitiators handled the request.
+2020-01-15,SAML response reported an IdP error.
+2020-01-15,SAML response reported an IdP error.
+2020-01-16,Invalid HTTP method (GET).
+2020-01-16,Invalid HTTP method (GET).
+2020-01-16,Invalid HTTP method (GET).
+2020-01-16,Invalid HTTP method (GET).
+2020-01-16,None of the configured SessionInitiators handled the request.
+2020-01-16,None of the configured SessionInitiators handled the request.
+2020-01-16,None of the configured SessionInitiators handled the request.
+2020-01-16,None of the configured SessionInitiators handled the request.
+2020-01-20,Invalid HTTP method (GET).
+2020-01-20,None of the configured SessionInitiators handled the request.
+2020-01-20,None of the configured SessionInitiators handled the request.
+2020-01-20,None of the configured SessionInitiators handled the request.
+2020-01-21,Invalid HTTP method (GET).
+2020-01-21,None of the configured SessionInitiators handled the request.
+2020-01-22,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-01-22,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-01-22,Unable to decode base64 in POST binding message.
+2020-01-23,Invalid HTTP method (GET).
+2020-01-23,None of the configured SessionInitiators handled the request.
+2020-01-23,None of the configured SessionInitiators handled the request.
+2020-01-24,None of the configured SessionInitiators handled the request.
+2020-01-27,None of the configured SessionInitiators handled the request.
+2020-01-27,None of the configured SessionInitiators handled the request.
+2020-01-27,SAML response reported an IdP error.
+2020-01-27,SAML response reported an IdP error.
+2020-01-30,Invalid HTTP method (GET).
+2020-01-30,None of the configured SessionInitiators handled the request.
+2020-02-01,Invalid HTTP method (GET).
+2020-02-03,Invalid HTTP method (GET).
+2020-02-03,None of the configured SessionInitiators handled the request.
+2020-02-03,None of the configured SessionInitiators handled the request.
+2020-02-03,None of the configured SessionInitiators handled the request.
+2020-02-03,None of the configured SessionInitiators handled the request.
+2020-02-03,None of the configured SessionInitiators handled the request.
+2020-02-03,None of the configured SessionInitiators handled the request.
+2020-02-04,None of the configured SessionInitiators handled the request.
+2020-02-04,None of the configured SessionInitiators handled the request.
+2020-02-05,None of the configured SessionInitiators handled the request.
+2020-02-05,None of the configured SessionInitiators handled the request.
+2020-02-05,None of the configured SessionInitiators handled the request.
+2020-02-10,Rejecting replayed message ID.
+2020-02-12,Invalid HTTP method (GET).
+2020-02-12,Invalid HTTP method (GET).
+2020-02-12,Invalid HTTP method (GET).
+2020-02-12,None of the configured SessionInitiators handled the request.
+2020-02-12,None of the configured SessionInitiators handled the request.
+2020-02-12,None of the configured SessionInitiators handled the request.
+2020-02-14,None of the configured SessionInitiators handled the request.
+2020-02-14,Rejecting replayed message ID.
+2020-02-18,None of the configured SessionInitiators handled the request.
+2020-02-18,None of the configured SessionInitiators handled the request.
+2020-02-18,None of the configured SessionInitiators handled the request.
+2020-02-21,Invalid HTTP method (GET).
+2020-02-21,None of the configured SessionInitiators handled the request.
+2020-02-21,None of the configured SessionInitiators handled the request.
+2020-02-21,None of the configured SessionInitiators handled the request.
+2020-02-21,SAML response reported an IdP error.
+2020-02-24,Invalid HTTP method (GET).
+2020-02-24,Invalid HTTP method (GET).
+2020-02-24,Invalid HTTP method (GET).
+2020-02-24,None of the configured SessionInitiators handled the request.
+2020-02-24,None of the configured SessionInitiators handled the request.
+2020-02-24,None of the configured SessionInitiators handled the request.
+2020-02-24,None of the configured SessionInitiators handled the request.
+2020-02-24,None of the configured SessionInitiators handled the request.
+2020-02-25,Invalid HTTP method (GET).
+2020-02-25,None of the configured SessionInitiators handled the request.
+2020-02-25,None of the configured SessionInitiators handled the request.
+2020-02-26,None of the configured SessionInitiators handled the request.
+2020-02-27,None of the configured SessionInitiators handled the request.
+2020-02-27,None of the configured SessionInitiators handled the request.
+2020-02-27,None of the configured SessionInitiators handled the request.
+2020-02-28,Invalid HTTP method (GET).
+2020-02-28,Invalid HTTP method (GET).
+2020-02-28,None of the configured SessionInitiators handled the request.
+2020-02-28,None of the configured SessionInitiators handled the request.
+2020-02-29,Invalid HTTP method (GET).
+2020-03-02,Rejecting replayed message ID.
+2020-03-02,Rejecting replayed message ID.
+2020-03-03,None of the configured SessionInitiators handled the request.
+2020-03-03,None of the configured SessionInitiators handled the request.
+2020-03-03,None of the configured SessionInitiators handled the request.
+2020-03-03,None of the configured SessionInitiators handled the request.
+2020-03-03,None of the configured SessionInitiators handled the request.
+2020-03-04,None of the configured SessionInitiators handled the request.
+2020-03-04,None of the configured SessionInitiators handled the request.
+2020-03-04,None of the configured SessionInitiators handled the request.
+2020-03-04,None of the configured SessionInitiators handled the request.
+2020-03-04,Unable to locate metadata for identity provider
+2020-03-06,AttributeStatement must have at least one Attribute.
+2020-03-06,AttributeStatement must have at least one Attribute.
+2020-03-06,Invalid HTTP method (GET).
+2020-03-06,None of the configured SessionInitiators handled the request.
+2020-03-06,SAML response reported an IdP error.
+2020-03-06,SAML response reported an IdP error.
+2020-03-06,SAML response reported an IdP error.
+2020-03-09,Rejecting replayed message ID.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-09,SAML response reported an IdP error.
+2020-03-10,None of the configured SessionInitiators handled the request.
+2020-03-10,None of the configured SessionInitiators handled the request.
+2020-03-10,SAML response reported an IdP error.
+2020-03-10,SAML response reported an IdP error.
+2020-03-12,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-03-13,Rejecting replayed message ID.
+2020-03-13,Rejecting replayed message ID.
+2020-03-16,Invalid HTTP method (GET).
+2020-03-16,None of the configured SessionInitiators handled the request.
+2020-03-16,Target resource was not an absolute URL.
+2020-03-16,Target resource was not an absolute URL.
+2020-03-19,None of the configured SessionInitiators handled the request.
+2020-03-19,None of the configured SessionInitiators handled the request.
+2020-03-20,None of the configured SessionInitiators handled the request.
+2020-03-20,None of the configured SessionInitiators handled the request.
+2020-03-20,None of the configured SessionInitiators handled the request.
+2020-03-25,"Cannot connect to shibd process, a site administrator should be notified that this web server has malfunctioned."
+2020-03-25,Shibboleth handler invoked at an unconfigured location.
+2020-03-26,Invalid HTTP method (GET).
+2020-03-26,Invalid HTTP method (GET).
+2020-03-27,Invalid HTTP method (GET).
+2020-03-28,Invalid HTTP method (GET).
+2020-03-28,Invalid HTTP method (GET).
+2020-03-28,None of the configured SessionInitiators handled the request.
+2020-03-28,None of the configured SessionInitiators handled the request.
+2020-03-29,None of the configured SessionInitiators handled the request.
+2020-03-29,None of the configured SessionInitiators handled the request.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,AttributeStatement must have at least one Attribute.
+2020-03-30,Invalid HTTP method (GET).
+2020-03-30,Invalid HTTP method (GET).
+2020-03-30,None of the configured SessionInitiators handled the request.
+2020-03-30,None of the configured SessionInitiators handled the request.
+2020-03-30,Rejecting replayed message ID.
+2020-03-31,AttributeStatement must have at least one Attribute.
+2020-03-31,Invalid HTTP method (GET).
+2020-04-01,Invalid HTTP method (GET).
+2020-04-01,Invalid HTTP method (GET).
+2020-04-01,None of the configured SessionInitiators handled the request.
+2020-04-01,None of the configured SessionInitiators handled the request.
+2020-04-01,None of the configured SessionInitiators handled the request.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-01,Unable to establish security of incoming assertion.
+2020-04-02,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-04-02,SAML response reported an IdP error.
+2020-04-03,None of the configured SessionInitiators handled the request.
+2020-04-03,None of the configured SessionInitiators handled the request.
+2020-04-03,Unable to establish security of incoming assertion.
+2020-04-06,"Message expired, was issued too long ago."
+2020-04-07,A valid authentication statement was not found in the incoming message.
+2020-04-07,A valid authentication statement was not found in the incoming message.
+2020-04-07,Attribute must have Name.
+2020-04-07,Invalid HTTP method (GET).
+2020-04-07,Invalid HTTP method (GET).
+2020-04-07,Invalid HTTP method (GET).
+2020-04-07,None of the configured SessionInitiators handled the request.
+2020-04-07,None of the configured SessionInitiators handled the request.
+2020-04-07,None of the configured SessionInitiators handled the request.
+2020-04-09,Invalid HTTP method (GET).
+2020-04-09,Invalid HTTP method (GET).
+2020-04-09,None of the configured SessionInitiators handled the request.
+2020-04-09,None of the configured SessionInitiators handled the request.
+2020-04-09,None of the configured SessionInitiators handled the request.
+2020-04-09,SAML response reported an IdP error.
+2020-04-10,Invalid HTTP method (GET).
+2020-04-10,Invalid HTTP method (GET).
+2020-04-10,SAML response reported an IdP error.
+2020-04-10,SAML response reported an IdP error.
+2020-04-11,None of the configured SessionInitiators handled the request.
+2020-04-11,None of the configured SessionInitiators handled the request.
+2020-04-13,Invalid HTTP method (GET).
+2020-04-13,Invalid HTTP method (GET).
+2020-04-13,Invalid HTTP method (GET).
+2020-04-13,None of the configured SessionInitiators handled the request.
+2020-04-13,None of the configured SessionInitiators handled the request.
+2020-04-13,OneTimeUse condition not successfully validated by policy.
+2020-04-13,OneTimeUse condition not successfully validated by policy.
+2020-04-14,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-04-15,None of the configured SessionInitiators handled the request.
+2020-04-15,None of the configured SessionInitiators handled the request.
+2020-04-16,Invalid HTTP method (GET).
+2020-04-16,None of the configured SessionInitiators handled the request.
+2020-04-16,Rejecting replayed message ID.
+2020-04-16,Rejecting replayed message ID.
+2020-04-16,Shibboleth handler invoked at an unconfigured location.
+2020-04-17,None of the configured SessionInitiators handled the request.
+2020-04-17,None of the configured SessionInitiators handled the request.
+2020-04-18,Invalid HTTP method (GET).
+2020-04-19,Invalid HTTP method (GET).
+2020-04-20,Rejecting replayed message ID.
+2020-04-20,"XML error(s) during parsing, check log for specifics"
+2020-04-21,Unable to establish security of incoming assertion.
+2020-04-22,Invalid HTTP method (GET).
+2020-04-22,None of the configured SessionInitiators handled the request.
+2020-04-23,None of the configured SessionInitiators handled the request.
+2020-04-23,None of the configured SessionInitiators handled the request.
+2020-04-23,Rejecting replayed message ID.
+2020-04-23,SAML response reported an IdP error.
+2020-04-23,SAML response reported an IdP error.
+2020-04-23,SAML response reported an IdP error.
+2020-04-27,Invalid HTTP method (GET).
+2020-04-28,Invalid HTTP method (GET).
+2020-04-29,Invalid HTTP method (GET).
+2020-04-29,Invalid HTTP method (GET).
+2020-04-29,None of the configured SessionInitiators handled the request.
+2020-04-29,None of the configured SessionInitiators handled the request.
+2020-05-05,Invalid HTTP method (GET).
+2020-05-05,Invalid HTTP method (GET).
+2020-05-05,None of the configured SessionInitiators handled the request.
+2020-05-05,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-05-07,None of the configured SessionInitiators handled the request.
+2020-05-08,Invalid HTTP method (GET).
+2020-05-08,SAML response reported an IdP error.
+2020-05-09,None of the configured SessionInitiators handled the request.
+2020-05-09,None of the configured SessionInitiators handled the request.
+2020-05-09,None of the configured SessionInitiators handled the request.
+2020-05-09,None of the configured SessionInitiators handled the request.
+2020-05-09,None of the configured SessionInitiators handled the request.
+2020-05-09,None of the configured SessionInitiators handled the request.
+2020-05-09,None of the configured SessionInitiators handled the request.
+2020-05-10,SAML response reported an IdP error.
+2020-05-10,SAML response reported an IdP error.
+2020-05-10,SAML response reported an IdP error.
+2020-05-10,SAML response reported an IdP error.
+2020-05-11,None of the configured SessionInitiators handled the request.
+2020-05-11,None of the configured SessionInitiators handled the request.
+2020-05-11,None of the configured SessionInitiators handled the request.
+2020-05-11,None of the configured SessionInitiators handled the request.
+2020-05-11,None of the configured SessionInitiators handled the request.
+2020-05-11,SAML response reported an IdP error.
+2020-05-12,Invalid HTTP method (GET).
+2020-05-12,None of the configured SessionInitiators handled the request.
+2020-05-13,None of the configured SessionInitiators handled the request.
+2020-05-13,None of the configured SessionInitiators handled the request.
+2020-05-13,Rejecting replayed message ID.
+2020-05-14,None of the configured SessionInitiators handled the request.
+2020-05-15,None of the configured SessionInitiators handled the request.
+2020-05-15,None of the configured SessionInitiators handled the request.
+2020-05-15,SAML response reported an IdP error.
+2020-05-15,SAML response reported an IdP error.
+2020-05-17,Invalid HTTP method (GET).
+2020-05-17,Invalid HTTP method (GET).
+2020-05-17,None of the configured SessionInitiators handled the request.
+2020-05-17,None of the configured SessionInitiators handled the request.
+2020-05-18,SAML response reported an IdP error.
+2020-05-19,Attempt to spoof header (eppn) was detected.
+2020-05-19,Unable to establish security of incoming assertion.
+2020-05-21,Invalid HTTP method (GET).
+2020-05-21,Invalid HTTP method (GET).
+2020-05-21,"Message was signed, but signature could not be verified."
+2020-05-21,Unable to establish security of incoming assertion.
+2020-05-22,"Message expired, was issued too long ago."
+2020-05-26,"Message expired, was issued too long ago."
+2020-05-26,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-05-26,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-05-28,Rejecting replayed message ID.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-28,Unable to establish security of incoming assertion.
+2020-05-29,"Message was signed, but signature could not be verified."
+2020-05-29,"Message was signed, but signature could not be verified."
+2020-05-29,Unable to establish security of incoming assertion.
+2020-05-29,Unable to establish security of incoming assertion.
+2020-05-30,Invalid HTTP method (GET).
+2020-05-30,Invalid HTTP method (GET).
+2020-05-30,None of the configured SessionInitiators handled the request.
+2020-05-30,None of the configured SessionInitiators handled the request.
+2020-05-30,None of the configured SessionInitiators handled the request.
+2020-05-30,None of the configured SessionInitiators handled the request.
+2020-05-30,SAML response reported an IdP error.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-02,None of the configured SessionInitiators handled the request.
+2020-06-04,AttributeStatement must have at least one Attribute.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid content type for PAOS message.
+2020-06-04,Invalid HTTP method (GET).
+2020-06-04,Invalid HTTP method (GET).
+2020-06-04,Invalid HTTP method (GET).
+2020-06-04,Invalid HTTP method (GET).
+2020-06-04,Invalid HTTP method (GET).
+2020-06-04,Invalid HTTP method (GET).
+2020-06-04,Invalid HTTP method (GET).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,Invalid HTTP method (HEAD).
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,None of the configured SessionInitiators handled the request.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart or TARGET query string parameters.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-04,Request missing SAMLart query string or form parameter.
+2020-06-05,None of the configured SessionInitiators handled the request.
+2020-06-07,"Message expired, was issued too long ago."
+2020-06-07,SAML response reported an IdP error.
+2020-06-08,Invalid HTTP method (GET).
+2020-06-08,Rejecting replayed message ID.
+2020-06-08,Rejecting replayed message ID.
+2020-06-10,Attempt to spoof header (eppn) was detected.
+2020-06-10,Attempt to spoof header (eppn) was detected.
+2020-06-10,"Cannot connect to shibd process, a site administrator should be notified that this web server has malfunctioned."
+2020-06-10,Invalid content type for PAOS message.
+2020-06-10,Invalid content type for PAOS message.
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,Invalid HTTP method (HEAD).
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,None of the configured SessionInitiators handled the request.
+2020-06-10,Request missing SAMLart or TARGET query string parameters.
+2020-06-10,Request missing SAMLart or TARGET query string parameters.
+2020-06-10,Request missing SAMLart or TARGET query string parameters.
+2020-06-10,Request missing SAMLart or TARGET query string parameters.
+2020-06-10,Request missing SAMLart query string or form parameter.
+2020-06-10,Request missing SAMLart query string or form parameter.
+2020-06-10,Request missing SAMLart query string or form parameter.
+2020-06-10,Request missing SAMLart query string or form parameter.
+2020-06-11,Invalid content type for PAOS message.
+2020-06-11,Invalid content type for PAOS message.
+2020-06-11,Invalid content type for PAOS message.
+2020-06-11,Invalid content type for PAOS message.
+2020-06-11,Invalid content type for PAOS message.
+2020-06-11,Invalid content type for PAOS message.
+2020-06-11,Invalid content type for PAOS message.
+2020-06-11,Invalid content type for PAOS message.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,None of the configured SessionInitiators handled the request.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart or TARGET query string parameters.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLart query string or form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLRequest or SAMLResponse form parameter.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-11,Request missing SAMLResponse or TARGET form parameters.
+2020-06-12,Invalid HTTP method (GET).
+2020-06-12,Rejecting replayed message ID.
+2020-06-12,Rejecting replayed message ID.
+2020-06-12,Rejecting replayed message ID.
+2020-06-15,Rejecting replayed message ID.
+2020-06-15,SAML response reported an IdP error.
+2020-06-17,Unable to establish security of incoming assertion.
+2020-06-17,Unable to establish security of incoming assertion.
+2020-06-17,Unable to establish security of incoming assertion.
+2020-06-17,Unable to establish security of incoming assertion.
+2020-06-17,Unable to establish security of incoming assertion.
+2020-06-17,Unable to establish security of incoming assertion.
